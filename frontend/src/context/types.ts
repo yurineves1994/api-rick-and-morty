@@ -1,0 +1,2 @@
+export const ALL_CARACTERS = 'ALL_CARACTERS';
+export const MORE_CARACTERS = 'MORE_CARACTERS';
